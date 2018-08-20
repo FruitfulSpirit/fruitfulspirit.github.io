@@ -72,3 +72,5 @@ _options:
   newsletter_background_image:
     width: 1880
     height: 1880
+
+theme: jekyll-theme-cayman
